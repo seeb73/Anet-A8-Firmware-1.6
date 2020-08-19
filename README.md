@@ -1,4 +1,4 @@
-# Anet-A8-PLUS-Firmware-1.6
+# Anet-A8-PLUS-Firmware-1.6 I buy in 2019 A8 PLUS printer with this software. I call it "Oryginal Anet A8 PLUS 1.6"
 # Marlin 3D Printer Firmware
 <img align="right" src="../../raw/1.1.x/buildroot/share/pixmaps/logo/marlin-250.png" />
 
